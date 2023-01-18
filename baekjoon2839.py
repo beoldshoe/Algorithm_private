@@ -30,5 +30,5 @@ def calcul(a):
             print(-1)
     else :
         print(-1)
-    
+        
 calcul(num)
