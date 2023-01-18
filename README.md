@@ -1,6 +1,6 @@
-# Baekjoon_private
+# algorithm_private
 
-혼자 백준 풀고 코드 올리는 곳.
+혼자 알고리즘  풀고 코드 올리는 곳.
 
 언어는 아무거나,
 
