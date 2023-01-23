@@ -16,5 +16,5 @@ for j in range(n+1) :
         result += 60*60
     else :
         result += 60*cnt*2 - cnt*cnt
-
+        
 print(result)
