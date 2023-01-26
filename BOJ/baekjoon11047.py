@@ -10,4 +10,4 @@ for j in reversed(range(N)) :
     
 
 print(count)
-    
+   
